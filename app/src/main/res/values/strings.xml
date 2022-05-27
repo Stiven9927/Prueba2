@@ -30,4 +30,7 @@
     <string name="title_color_dialog">Elige Color</string>
     <string name="title_line_width_dialog">Elija ancho de línea</string>
 
+    <string name="ingreso_nombre">Nombre</string>
+    <string name="ingreso_apellido">Apellido</string>
+
 </resources>

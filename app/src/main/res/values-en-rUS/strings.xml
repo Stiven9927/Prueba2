@@ -29,4 +29,7 @@
     <string name="permission_explanation">To save an image, the app requires permission to write to external storage</string>
     <string name="title_color_dialog">Choose Color</string>
     <string name="title_line_width_dialog">Choose Line Width</string>
+
+    <string name="ingreso_nombre">Nombre</string>
+    <string name="ingreso_apellido">Apellido</string>
 </resources>
